@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Saleem Khan!
 
-🚀 **DevOps Engineer | Cloud Enthusiast | Continuous Learner**
+ **DevOps Engineer | Cloud Enthusiast | Continuous Learner**
 
 Welcome to my GitHub! I'm passionate about building reliable, scalable, and automated infrastructure to empower teams and deliver robust software solutions. With hands-on expertise across modern DevOps stacks, I thrive on solving complex problems and fostering collaboration.
 
