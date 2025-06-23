@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm passionate about building reliable, scalable, and auto
 
 ---
 
-## 🛠️ Top Skills
+##  My Skills
 
 - **DevOps & Cloud:** Linux, AWS, Docker, Kubernetes, Jenkins, Ansible
 - **Version Control:** Git, GitHub
@@ -26,6 +26,7 @@ Check out my latest work on Kubernetes and DevOps practices:
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/saleemkhan-seo/)
+-  [Email](saleemkhan.seoo@gmail.com)
 
 ---
 
