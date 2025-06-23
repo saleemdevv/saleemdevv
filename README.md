@@ -26,7 +26,6 @@ Check out my latest work on Kubernetes and DevOps practices:
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/saleemkhan-seo/)
--  [Email](saleemkhan.seoo@gmail.com)
 
 ---
 
